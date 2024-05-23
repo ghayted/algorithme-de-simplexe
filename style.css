@@ -1,0 +1,7 @@
+.pivot-row {
+    background-color: rgb(180, 203, 180); /* Couleur de fond pour les lignes pivot */
+}
+
+.pivot-column {
+    background-color:rgb(56, 55, 55); /* Couleur de fond pour les colonnes pivot */
+}
